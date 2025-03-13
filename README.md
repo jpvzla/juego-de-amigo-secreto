@@ -81,8 +81,18 @@ Para el sorteo o selección de nombres:
      * Almacena el valor proveniente de Math.floor(Math.random() x amigos.length) que genera el valor aleatorio entre 0 y n-1 nombres, incluidos para el sorteo. 
 
 ## Imágenes
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+* Inicio
+![1 - Inicio](https://github.com/user-attachments/assets/f12c7bb7-7bad-457d-863f-780fe1cfeb8b)
+* Incluisión de nombres
+![2 - Incluir nombres](https://github.com/user-attachments/assets/f454742d-1ec6-4394-a59f-d0d7a7266bbb)
+* Sorteo
+![3 - Sorteo](https://github.com/user-attachments/assets/e00e2491-4168-4873-acb2-f6d2f78a2fdc)
+* Juego terminado
+![4 - Final](https://github.com/user-attachments/assets/7387501a-43bd-482b-aac7-1ec22ef2d505)
+* Mensaje para la introducción de un nombre válido
+![5 - Mensaje Nombre válido](https://github.com/user-attachments/assets/db2b0683-3533-459b-9f09-ad2a5cbb44d5)
+* Mensaje indicando que el sorteo requiere de por lo menos dos nombres
+![6 - Mensaje Mínimo dos nombres](https://github.com/user-attachments/assets/dbb15d0e-62dc-4c3b-971d-e0a1b7b986a4)
 
 ## Tecnologías utilizadas
    * HTMl
@@ -91,9 +101,6 @@ Para el sorteo o selección de nombres:
      * Presentación y cohesión del contenido HTML.
    * JavaScript. 
      * Lenguaje de programnación que desarrolla la lógica aplicada en la solución presentada. 
-
-## Capturas de pantalla
-![This is an alt text.](/image/sample.webp "This is a sample image.")
 
 ## Instalación y uso
    * Duplica o descarga este repositorio:
